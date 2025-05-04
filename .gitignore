@@ -1,0 +1,55 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.env
+.env.*
+.venv/
+pip-wheel-metadata/
+logs
+
+# ========================
+# FastAPI / Uvicorn
+# ========================
+*.db
+*.sqlite3
+instance/
+*.bak
+.DS_Store
+
+# ========================
+# IDEs
+# ========================
+# VS Code
+.vscode/
+# PyCharm
+.idea/
+
+# ========================
+# Notebooks / Temp
+# ========================
+*.ipynb_checkpoints
+*.swp
+*.swo
+*~
+
+# ========================
+# Docker
+# ========================
+*.tar
+*.dockerfile
+docker-compose.override.yml
+docker-compose*.local.yml
+
+# ========================
+# OS Files
+# ========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
