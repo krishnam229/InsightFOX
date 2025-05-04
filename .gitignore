@@ -28,8 +28,6 @@ instance/
 # ========================
 # VS Code
 .vscode/
-# PyCharm
-.idea/
 
 # ========================
 # Notebooks / Temp
