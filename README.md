@@ -127,7 +127,6 @@ streamlit run app.py
 ## 👨‍💻 Contributors
 
 - Krishna Kirit Maniyar [@krishnam229](https://github.com/krishnam229)
-- Kethan Dosapati [@DKethan](https://github.com/DKethan)
 
 ---
 
